@@ -1,8 +1,12 @@
 # Redux Toolkit
 
-#### React Course
-
-[My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
+<div align="center">
+<h1>React Redux-Cart Frontend</h1>
+   <div align="center">
+    <img src="preview1.png" width='700'/>
+    
+  </div>
+</div>
 
 #### Support
 
