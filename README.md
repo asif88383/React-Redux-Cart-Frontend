@@ -8,10 +8,6 @@
   </div>
 </div>
 
-#### Support
-
-Find the App Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
-
 #### Docs
 
 [Redux Toolkit Docs](https://redux-toolkit.js.org/introduction/getting-started)
